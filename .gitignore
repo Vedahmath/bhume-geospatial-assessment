@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+.idea/
+.vscode/
+
+patch_example.png
